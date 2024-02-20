@@ -18,4 +18,8 @@
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></a>
   </div>
   
-  ![Snake animation](https://github.com/lopesofia20/lopesofia20/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
