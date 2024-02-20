@@ -1,5 +1,6 @@
-* Sou Vitoria, prazer!
-* Cursando ensino superior em Ciências da Computação
+
+-> Sou Vitoria, prazer! 
+-> Cursando ensino superior em Ciências da Computação
 
   
 <div align="center">
@@ -14,5 +15,7 @@
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
-      <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></a>
+    <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></a>
   </div>
+  
+  ![Snake animation](https://github.com/lopesofia20/lopesofia20/blob/output/github-contribution-grid-snake.svg)
