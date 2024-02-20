@@ -1,3 +1,7 @@
+* Sou Vitoria, prazer!
+* Cursando ensino superior em Ciências da Computação
+
+  
 <div align="center">
     <a href="https://github.com/lopesofia20">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=lopesofia20&show_icons=true&theme=radical#gh-dark-mode-only" />
