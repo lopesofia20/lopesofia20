@@ -5,12 +5,10 @@
     </a>
   </div><br>
   <div style="display: inline-block;" align="center">
-    <a href="https://github.com/lopesofia20"><img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/></a>
-    <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
-    <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/></a>
+    <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original-wordmark.svg"/></a>
   </div>
