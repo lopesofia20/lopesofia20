@@ -10,5 +10,5 @@
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></a>
     <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/></a>
-    <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original-wordmark.svg"/></a>
+    <a href="https://github.com/lopesofia20"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
   </div>
