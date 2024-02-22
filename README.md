@@ -1,6 +1,6 @@
 
 -> Sou Vitoria, prazer! <br>
--> Cursando ensino superior em Ciências da Computação
+-> Cursando ensino superior em Ciências da Computação | UNIBH
 
   
 <div align="center">
